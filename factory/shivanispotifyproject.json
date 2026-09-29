@@ -1,0 +1,15 @@
+{
+	"name": "shivanispotifyproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "009a0dc7-6083-4a6f-bb47-3e24378912df",
+		"tenantId": "25499ae0-ae56-42a1-947b-6ab81f45a78e"
+	}
+}
