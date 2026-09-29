@@ -1,0 +1,15 @@
+{
+	"name": "dfshivani",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "68beb4ed-baf4-48e3-bf53-c96e3bc32a53",
+		"tenantId": "25499ae0-ae56-42a1-947b-6ab81f45a78e"
+	}
+}
