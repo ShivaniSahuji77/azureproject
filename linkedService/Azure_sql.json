@@ -1,0 +1,17 @@
+{
+	"name": "Azure_sql",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "azureprojectservershiv.database.windows.net",
+			"database": "azureprojectdbshivani",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "adminshivani",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDlCMjNFQzRDLTJFOUEtNDE0OS04OUI4LTJBMUJEOERGQjI1Ql9jZTAwM2IzMS1jNTQ1LTQxYzUtYWI5ZC0wMTA5OWNmZjg5MzgiDQp9"
+		}
+	}
+}
